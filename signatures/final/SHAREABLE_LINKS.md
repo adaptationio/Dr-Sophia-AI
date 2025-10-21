@@ -2,6 +2,7 @@
 
 **Status:** ✅ **ALL LIVE ON GITHUB PAGES**
 **Date:** October 12, 2025
+**Team Members:** 6 signatures total
 
 ---
 
@@ -9,7 +10,7 @@
 
 **These links open interactive previews showing exactly how the signature looks!**
 
-### Nawras Alali - Dual Phone (Both AU + UAE)
+### 1. Nawras Alali - Dual Phone (Both AU + UAE)
 ```
 https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/nawras_alali_dual_phone_preview.html
 ```
@@ -20,7 +21,7 @@ https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/nawras_ala
 
 ---
 
-### Nawras Alali - Single Phone (AU Only)
+### 2. Nawras Alali - Single Phone (AU Only)
 ```
 https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/nawras_alali_single_phone_preview.html
 ```
@@ -31,7 +32,7 @@ https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/nawras_ala
 
 ---
 
-### Dwayne Boyes
+### 3. Dwayne Boyes - Director
 ```
 https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/dwayne_boyes_preview.html
 ```
@@ -39,6 +40,39 @@ https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/dwayne_boy
 - View signature appearance
 - Copy directly from browser to Outlook
 - Share with Dwayne
+
+---
+
+### 4. Eric van Ryswyk - CSO ✨ NEW
+```
+https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/eric_van_ryswyk_preview.html
+```
+**Use this link to:**
+- View signature appearance
+- Copy directly from browser to Outlook
+- Share with Eric
+
+---
+
+### 5. Willie Prosek - CTO ✨ NEW
+```
+https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/willie_prosek_preview.html
+```
+**Use this link to:**
+- View signature appearance
+- Copy directly from browser to Outlook
+- Share with Willie
+
+---
+
+### 6. Julia McCann - GM Health Transformation ✨ NEW
+```
+https://adaptationio.github.io/Dr-Sophia-AI/signatures/final/previews/julia_mccann_preview.html
+```
+**Use this link to:**
+- View signature appearance
+- Copy directly from browser to Outlook
+- Share with Julia
 
 ---
 
